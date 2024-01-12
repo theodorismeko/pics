@@ -1,4 +1,4 @@
-## This is an image searching app  
+## This is an image searching app using https://unsplash.com/developers API
 
 # Getting Started with Create React App
 
